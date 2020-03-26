@@ -1,6 +1,6 @@
 # -
 使用C++在Qt框架下为购物网站设计原型  
-以下是效果图  
+以下是在不同分辨率下的效果图  
 ![image](https://github.com/dingyuming102/-/blob/master/QtGuiApplication2/QtGuiApplication2/report/images/rendered1024x1366.png)  
 ![image](https://github.com/dingyuming102/-/blob/master/QtGuiApplication2/QtGuiApplication2/report/images/rendered1200x1050.png)  
 ![image](https://github.com/dingyuming102/-/blob/master/QtGuiApplication2/QtGuiApplication2/report/images/rendered1366x1024.png)  
